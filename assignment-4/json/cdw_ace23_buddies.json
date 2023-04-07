@@ -1,0 +1,30 @@
+[
+  {
+    "employeeId": "1",
+    "realName": "Raju",
+    "nickName": "Raj",
+    "dob": "11-1-1999",
+    "hobbies": "Gaming"
+  },
+  {
+    "employeeId": "2",
+    "realName": "Somu",
+    "nickName": "Somu",
+    "dob": "11-12-2000",
+    "hobbies": "Gaming"
+  },
+  {
+    "employeeId": "3",
+    "realName": "ravi",
+    "nickName": "Ram",
+    "dob": "11-1-1999",
+    "hobbies": "Gaming"
+  },
+  {
+    "employeeId": "4",
+    "realName": "Rose",
+    "nickName": "Rrr",
+    "dob": "11-1-1999",
+    "hobbies": "Golf"
+  }
+]
