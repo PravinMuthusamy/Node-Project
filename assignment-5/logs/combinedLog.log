@@ -1,0 +1,72 @@
+info: Apr-09-2023 12:39:05: 	/2 - GET - ::ffff:127.0.0.1
+info: Apr-09-2023 12:39:21: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-09-2023 12:39:44: 	/ - POST - ::ffff:127.0.0.1
+info: Apr-09-2023 12:40:07: 	/4 - PUT - ::ffff:127.0.0.1
+info: Apr-09-2023 12:47:22: 	/8 - PUT - ::ffff:127.0.0.1
+info: Apr-09-2023 12:48:07: 	/4 - PUT - ::ffff:127.0.0.1
+info: Apr-09-2023 12:48:16: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-09-2023 13:10:40: 	/6 - DELETE - ::ffff:127.0.0.1
+info: Apr-09-2023 13:16:41: 	/6 - GET - ::ffff:127.0.0.1
+info: Apr-09-2023 13:18:11: 	/6 - GET - ::ffff:127.0.0.1
+info: Apr-09-2023 13:21:16: 	/6 - PUT - ::ffff:127.0.0.1
+info: Apr-09-2023 13:21:54: 	/6 - PUT - ::ffff:127.0.0.1
+info: Apr-09-2023 13:24:35: 	/6 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 11:16:32: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:16:37: 	/2 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:17:17: 	/ - POST - ::ffff:127.0.0.1
+info: Apr-10-2023 11:17:37: 	/8 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 11:18:02: 	/6 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 11:18:21: 	/6 - DELETE - ::ffff:127.0.0.1
+info: Apr-10-2023 11:18:31: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:18:40: 	/8 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:19:15: 	/ - POST - ::ffff:127.0.0.1
+info: Apr-10-2023 11:19:37: 	/6 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:49:13: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:49:18: 	/9 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:50:24: 	/9 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:52:00: 	/2 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 11:52:10: 	/3 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 11:58:55: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 11:59:14: 	/7 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 12:01:33: 	/7 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 12:05:00: 	/7 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 12:27:15: 	/8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 12:27:15: 	undefined - /8 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 14:10:11: 	/8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 14:10:11: 	undefined - /8 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 14:10:16: 	/2 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 14:10:56: 	/2 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 14:11:54: 	/6 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 14:12:06: 	/6 - PUT - ::ffff:127.0.0.1
+info: Apr-10-2023 14:12:13: 	/6 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 14:47:28: 	/ - GET - ::1
+info: Apr-10-2023 14:48:37: 	/ - GET - ::1
+info: Apr-10-2023 14:48:49: 	/ - GET - ::1
+info: Apr-10-2023 14:50:28: 	/ - GET - ::1
+info: Apr-10-2023 14:51:38: 	/ - GET - ::1
+info: Apr-10-2023 14:51:38: 	/favicon.ico - GET - ::1
+error: Apr-10-2023 14:51:38: 	undefined - /favicon.ico - GET - ::1
+info: Apr-10-2023 14:52:37: 	/www.google.com - GET - ::1
+error: Apr-10-2023 14:52:37: 	undefined - /www.google.com - GET - ::1
+info: Apr-10-2023 15:02:20: 	/2 - GET - ::1
+info: Apr-10-2023 15:02:26: 	/9 - GET - ::1
+error: Apr-10-2023 15:02:26: 	undefined - /9 - GET - ::1
+info: Apr-10-2023 15:02:36: 	/0 - GET - ::1
+error: Apr-10-2023 15:02:36: 	undefined - /0 - GET - ::1
+info: Apr-10-2023 15:02:41: 	/ - GET - ::1
+info: Apr-10-2023 15:29:07: 	/8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 15:29:07: 	undefined - /8 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 15:29:57: 	/ - POST - ::ffff:127.0.0.1
+error: Apr-10-2023 15:29:57: 	undefined - / - POST - ::ffff:127.0.0.1
+info: Apr-10-2023 15:52:03: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 15:52:44: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:07:52: 	/6 - DELETE - ::ffff:127.0.0.1
+info: Apr-10-2023 16:08:01: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:08:08: 	/8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 16:08:08: 	undefined - /8 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:14:20: 	/ - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:25:00: 	/8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 16:25:00: 	undefined - /8 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:25:04: 	/4 - GET - ::ffff:127.0.0.1
+info: Apr-10-2023 16:25:12: 	/9 - DELETE - ::ffff:127.0.0.1
+error: Apr-10-2023 16:25:12: 	undefined - /9 - DELETE - ::ffff:127.0.0.1

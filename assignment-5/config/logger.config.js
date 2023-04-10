@@ -4,7 +4,7 @@ module.exports = createLogger({
   transports: [
     new transports.File({
       level: process.env.LOGGER_LEVEL,
-      filename: "./logs/logs.log",
+      filename: "./logs/error.log",
       format: format.combine(
         format.timestamp({ format: "MMM-DD-YYYY HH:mm:ss" }),
         format.align(),
@@ -15,7 +15,7 @@ module.exports = createLogger({
     }),
     new transports.File({
       level: "info",
-      filename: "./logs/entryLog.log",
+      filename: "./logs/combinedLog.log",
       format: format.combine(
         format.timestamp({ format: "MMM-DD-YYYY HH:mm:ss" }),
         format.align(),

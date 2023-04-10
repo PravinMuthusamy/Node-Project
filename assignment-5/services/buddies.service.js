@@ -26,13 +26,19 @@ const deleteData = (data)=>{
     try {
         const { status, data: jsonData } = readFile('./data/cdw_ace23_buddies.json');
         if (status) {
-            const employee = jsonData.find(emp => emp.employeeId === data);
-            if (!employee) {
+            // const employee = jsonData.find(emp => emp.employeeId === data);
+            // if (!employee) {
+            //     return { status: false, error: err };
+            // }
+            const initialLength = jsonData.length;
+            const updatedData = jsonData.filter(emp => emp.employeeId !== data);
+            if(initialLength > updatedData.length)
+            {const { status: writeStatus } = writeFile('./data/cdw_ace23_buddies.json', updatedData);
+            return { status: writeStatus };
+            }
+            else{
                 return { status: false, error: err };
             }
-            const updatedData = jsonData.filter(emp => emp.employeeId !== data);
-            const { status: writeStatus } = writeFile('./data/cdw_ace23_buddies.json', updatedData);
-            return { status: writeStatus };
         }
         return { status: false };
     } catch (err) {
@@ -59,7 +65,7 @@ const selectData= (key)=>{
                 return emp.employeeId == key || emp.realName == key
             })
             if (employee.length === 0) {
-                return { status: false, error: err };
+                return { status: false, error: err};
             }
             return { status: true, data: employee };
         }

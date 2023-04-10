@@ -48,3 +48,18 @@ error: Apr-09-2023 11:16:42: 	TypeError: jsonData.findIndex is not a function - 
 error: Apr-09-2023 11:37:36: 	Employee with this employeeId already exists - / - POST - ::ffff:127.0.0.1
 error: Apr-09-2023 11:47:46: 	Employee with this employeeId already exists - / - POST - ::ffff:127.0.0.1
 error: Apr-09-2023 12:47:22: 	Error: Employee not found - /8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 12:05:00: 	function () { [native code] } - /7 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 12:06:03: 	undefined - /7 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 12:09:38: 	undefined - /8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 12:10:01: 	undefined - /8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 12:27:15: 	undefined - /8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 14:10:11: 	undefined - /8 - PUT - ::ffff:127.0.0.1
+error: Apr-10-2023 14:51:38: 	undefined - /favicon.ico - GET - ::1
+error: Apr-10-2023 14:52:37: 	undefined - /www.google.com - GET - ::1
+error: Apr-10-2023 15:02:26: 	undefined - /9 - GET - ::1
+error: Apr-10-2023 15:02:36: 	undefined - /0 - GET - ::1
+error: Apr-10-2023 15:29:07: 	undefined - /8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 15:29:57: 	undefined - / - POST - ::ffff:127.0.0.1
+error: Apr-10-2023 16:08:08: 	undefined - /8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 16:25:00: 	undefined - /8 - GET - ::ffff:127.0.0.1
+error: Apr-10-2023 16:25:12: 	undefined - /9 - DELETE - ::ffff:127.0.0.1
